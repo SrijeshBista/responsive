@@ -1,0 +1,43 @@
+
+.button .btn-I{
+    border: none;
+    background-color:#48CFCB;
+    padding: 10px 20px;
+    border-radius: 20px;
+    font-weight: 500;
+}
+.button .btn-I a{
+    text-decoration: none;
+    color: white;
+}
+.padding{
+    padding: 50px 0;
+}
+.titles h1{
+    font-size: 50px;
+    color: white;
+    font-weight: 500;
+    font-family: "Roboto Mono",sans-serif;
+    margin-top: 30px;
+}
+.dis{
+    color: white;
+    font-size: 17px;
+    font-weight: 600;
+    width: 70%;
+}
+.secondary-banner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    margin-top: 30px;
+    gap: 40px;
+}
+.detail{
+    width: calc(100% / 3 - 20px);
+    text-align: center;
+    padding: 20px 0;
+    background-color: #E8B86D;
+
+}
